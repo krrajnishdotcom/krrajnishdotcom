@@ -1,5 +1,5 @@
 ## 🚀 About Me
-- 👋 Hi, I’m @Rajnish11
+- 👋 Hi, I’m Rajnish Kushwaha
 - 👀 I’m interested in Full-stack Development
 - 🌱 I’m currently learning  back-end
 - 💞️ I’m looking to collaborate on the  GIS WEB Mapping Project
