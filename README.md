@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krrajnishkush)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KrRajnish_Dev)
 ### Coding Activity Monitored by Wakatime
-![Rajnish_dev](https://aim.vogle.com/wakatime/Rajnish_dev?row=5)
+![Rajnish_dev](https://aim.vogle.com/wakatime/Rajnish_dev?row=3)
 
 
 
